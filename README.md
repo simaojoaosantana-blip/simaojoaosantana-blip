@@ -2,6 +2,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=00F5FF&background=000000&center=true&vCenter=true&width=800&height=120&lines=SIMÃO+BECKER;SIMÃO+BECKER;SIMÃO+BECKER" alt="Simão Becker" />
 
+
+https://github.com/user-attachments/assets/0687eb69-1224-4f39-b04f-a291e5577ef4
+
+
 ### Data Analyst • Business Intelligence • Performance & Analytics
 
 <br>
