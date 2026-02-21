@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=00F5FF&background=000000&center=true&vCenter=true&width=800&height=120&lines=SIMÃO+BECKER;SIMÃO+BECKER;SIMÃO+BECKER" alt="Simão Becker" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00F5FF&background=1F1F1F&center=true&vCenter=true&width=850&height=120&lines=Sim%C3%A3o+Becker" alt="Typing SVG" />
+</a>
 
 ### Data Analyst • Business Intelligence • Performance & Analytics
 
@@ -14,7 +16,7 @@
 Especialista na estruturação, modelagem e visualização de indicadores com foco em performance, eficiência operacional e suporte analítico à tomada de decisão executiva.
 </blockquote>
 
-<video src="dreamina-2026-02-21-7481-Criar impacto visual mostrando um dashbo....mp4" width="100%" controls autoplay loop muted>
+<video src="dreamina-2026-02-21-7481-Criar impacto visual mostrando um dashbo....mp4" width="100%" height="auto" controls autoplay loop muted>
   Seu navegador não suporta vídeos incorporados.
 </video>
 
