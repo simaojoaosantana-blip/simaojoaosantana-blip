@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/77954114-7c90-4a03-a903-d8b172ef29fd"/>
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/cb444c27-8520-472c-8edb-1ee413f06527"/>
 
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00F5FF&background=1F1F1F&center=true&vCenter=true&width=850&height=120&lines=Sim%C3%A3o+Becker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=3EA8F3&center=true&vCenter=true&width=850&height=120&lines=Sim%C3%A3o+Becker+Santana" alt="Typing SVG" />
 </a>
 
 ### Data Analyst • Business Intelligence • Performance & Analytics
@@ -97,11 +97,11 @@ Minha abordagem combina capacidade técnica com visão de negócio, garantindo q
 <br><br>
 
 <sub>
-Atualizado em 2026 • <b>Simão Becker</b>
+Atualizado em 2026 • <b>Simão Becker Santana</b>
 </sub>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=00F5FF&height=60&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/render?type=waving&color=3EA8F3&height=60&section=footer" width="100%" />
 
 </div>
