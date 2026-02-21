@@ -1,12 +1,9 @@
-<div align="center">
+br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=00F5FF&background=000000&center=true&vCenter=true&width=800&height=120&lines=SIMÃO+BECKER;SIMÃO+BECKER;SIMÃO+BECKER" alt="Simão Becker" />
+<strong>Transformando dados em inteligência estratégica para decisões de alto impacto.</strong>
 
+<br><br>
 
-https://github.com/user-attachments/assets/0687eb69-1224-4f39-b04f-a291e5577ef4
-
-
-### Data Analyst • Business Intelligence • Performance & Analytics
 
 <br>
 
@@ -80,30 +77,3 @@ Minha abordagem combina capacidade técnica com visão de negócio, garantindo q
 
 ---
 
-## 🤝 Conecte-se
-
-<div align="center">
-
-<a href="mailto:seu.email@exemplo.com">
-  <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/seu-perfil-aqui" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-<a href="https://wa.me/5599999999999" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-161B22?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-<br><br>
-
-<sub>
-Atualizado em 2026 • <b>Simão Becker</b>
-</sub>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/render?type=waving&color=00F5FF&height=60&section=footer" width="100%" />
-
-</div>
