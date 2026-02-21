@@ -1,16 +1,23 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=00F5FF&background=161B22&center=true&vCenter=true&width=900&height=120&lines=SIMÃO+BECKER;DATA+ANALYST;BUSINESS+INTELLIGENCE" alt="Simão Becker" />
 
-  <br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=00F5FF&background=000000&center=true&vCenter=true&width=800&height=120&lines=SIMÃO+BECKER;SIMÃO+BECKER;SIMÃO+BECKER" alt="Simão Becker" />
 
-  <strong>Data Analyst | Business Intelligence | Performance & Analytics</strong>
+### Data Analyst • Business Intelligence • Performance & Analytics
 
-  <br><br>
+<br>
 
-  <blockquote align="center">
-    Especialista na transformação de dados em inteligência estratégica. 
-    Atuo na estruturação, modelagem e visualização de indicadores com foco em performance, eficiência operacional e suporte analítico à tomada de decisão.
-  </blockquote>
+<strong>Transformando dados em inteligência estratégica para decisões de alto impacto.</strong>
+
+<br><br>
+
+<blockquote>
+Especialista na estruturação, modelagem e visualização de indicadores com foco em performance, eficiência operacional e suporte analítico à tomada de decisão executiva.
+</blockquote>
+
+<video src="dreamina-2026-02-21-7481-Criar impacto visual mostrando um dashbo....mp4" width="100%" controls autoplay loop muted>
+  Seu navegador não suporta vídeos incorporados.
+</video>
+
 </div>
 
 ---
