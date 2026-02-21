@@ -1,5 +1,9 @@
 <div align="center">
 
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/77954114-7c90-4a03-a903-d8b172ef29fd"/>
+
+<br>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00F5FF&background=1F1F1F&center=true&vCenter=true&width=850&height=120&lines=Sim%C3%A3o+Becker" alt="Typing SVG" />
 </a>
@@ -15,10 +19,6 @@
 <blockquote>
 Especialista na estruturação, modelagem e visualização de indicadores com foco em performance, eficiência operacional e suporte analítico à tomada de decisão executiva.
 </blockquote>
-
-<video src="dreamina-2026-02-21-7481-Criar impacto visual mostrando um dashbo....mp4" width="100%" height="auto" controls autoplay loop muted>
-  Seu navegador não suporta vídeos incorporados.
-</video>
 
 </div>
 
